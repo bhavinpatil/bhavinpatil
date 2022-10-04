@@ -1,3 +1,7 @@
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavinpatil&label=Profile%20views&color=0e75b6&style=flat" alt="bhavinpatil" /> </p>
+
 ### Hi there folks 👋
 ![Bhavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavinpatil&theme=vision-friendly-dark&show_icons=true)<br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavinpatil&theme=vision-friendly-dark&hide=assembly)
