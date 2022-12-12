@@ -21,13 +21,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![@bhavinpatil's Holopin board](https://holopin.io/api/user/board?user=bhavinpatil)](https://holopin.io/@bhavinpatil)
-
-
-![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
-
-<a href=#><img src="contributions.svg"></a>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/bhavinpatil/count.svg" />
-</p>
